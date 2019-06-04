@@ -36,6 +36,18 @@ URL: https://poly.google.com/view/6ZPbRl78eRZ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Laptop
+Author: Poly by Google
+URL: https://poly.google.com/view/6eBS-C3E33W
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Monitor
+Author: Jerad Bitner
+URL: https://poly.google.com/view/6Wjk-uke7i-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Monitor
 Author: TheFlyingPotato Youtube
 URL: https://poly.google.com/view/3CNCR-m-KGH
