@@ -12,9 +12,27 @@ URL: https://poly.google.com/view/bpXwDQa22yx
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Cartoony keyboard
+Author: Andreas Gogstad
+URL: https://poly.google.com/view/0wGjDnAyARX
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Chair
+Author: CMHT Oculus
+URL: https://poly.google.com/view/bjpdcj__Ul3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Computer
 Author: Poly by Google
 URL: https://poly.google.com/view/2EHvZLax4Y3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: HTC Vive controller
+Author: Marco Romero
+URL: https://poly.google.com/view/cW2uPa-Ras5
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -27,5 +45,17 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Monitor
 Author: TheFlyingPotato Youtube
 URL: https://poly.google.com/view/3CNCR-m-KGH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tripod
+Author: Miguelangelo Rosario
+URL: https://poly.google.com/view/5v3ZPBQlYll
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Vive lighthouse on tall pole.
+Author: Pookage Hayes
+URL: https://poly.google.com/view/bD-c2PRxnbA
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
