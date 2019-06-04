@@ -12,12 +12,6 @@ URL: https://poly.google.com/view/bpXwDQa22yx
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
-Title: Cartoony keyboard
-Author: Andreas Gogstad
-URL: https://poly.google.com/view/0wGjDnAyARX
-License: Creative Commons CC-BY
-https://creativecommons.org/licenses/by/3.0/legalcode
-
 Title: Chair
 Author: CMHT Oculus
 URL: https://poly.google.com/view/bjpdcj__Ul3
@@ -57,5 +51,11 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Vive lighthouse on tall pole.
 Author: Pookage Hayes
 URL: https://poly.google.com/view/bD-c2PRxnbA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Zeit
+Author: Jose Rago
+URL: https://poly.google.com/view/8bcRiVyE5Fm
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
