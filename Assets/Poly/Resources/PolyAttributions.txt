@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Andrews Mouse
+Author: Andrew VR
+URL: https://poly.google.com/view/eWjIHIIvrqy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Basic Black Desktop Computer
+Author: Vince Pale Jr
+URL: https://poly.google.com/view/bpXwDQa22yx
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Computer
+Author: Poly by Google
+URL: https://poly.google.com/view/2EHvZLax4Y3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: HTC Vive Headset
+Author: Marco Romero
+URL: https://poly.google.com/view/6ZPbRl78eRZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Monitor
+Author: TheFlyingPotato Youtube
+URL: https://poly.google.com/view/3CNCR-m-KGH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
